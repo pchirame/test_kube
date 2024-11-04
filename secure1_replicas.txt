@@ -10,7 +10,7 @@ docusign-service: 2
 emailtemplateservice: 2
 estimator-rest: 2
 iam: 4
-inmemcalc: 3
+inmemcalc: 4
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
@@ -27,7 +27,7 @@ nova-xactly-sheet-deployment: 2
 nova-xdbc-api-deployment: 1
 nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
-qsf: 2
+qsf: 4
 query-builder-deployment: 2
 user-management-ui-deployment: 1
 user-policy-api-deployment: 1
