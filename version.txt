@@ -9,8 +9,9 @@ docusign-service: 2024.02.1-release
 emailtemplateservice: 2024.02.0-release
 estimator-rest: 2024.02.0-release
 iam: 2024.08.04_420_master
-euiam: 2304_RELEASE
+euiam: 2024.08.04_420_master
 inmemcalc: 2024.09.2_157_master
+inmemcalc2: 2024.09.2_157_master
 jsql-builder-deployment: prod-2024.Q2.117
 metadata-service: 2024.09.01_461_master
 nova-app-designer-deployment: 2024.08.0_9_main
