@@ -2,8 +2,8 @@ ads: 2024.08.02_928_master
 carest: 2024.02.0-release
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
-datalake-insights: 2024.02.0-release
-datalake-restapp: 2023.11.0-RELEASE_master.11
+datalake-insights: 2024.05.1-release	
+datalake-restapp: 2024.05.1-release	
 datalakeincentevent: 2024.08.0_65_master
 docusign-service: 2024.02.1-release
 emailtemplateservice: 2024.02.0-release
