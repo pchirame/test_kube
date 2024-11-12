@@ -1,4 +1,4 @@
-ads: 2024.08.03_1845_master
+ads: 2024.08.4_1925_master
 carest: 2024.02.0-release
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
@@ -28,6 +28,7 @@ nova-xactly-sheet-deployment: 2023.10.16-Release
 nova-xdbc-api-deployment: 2023.1.0-release
 nova-xdbc-client-deployment: 2023.12.20-Release
 platform-territories-webui: 2024.08.0_76_main
+platform-crediting-assignment-webui: 2024.09.00_52_main
 qsf: 2024.08.00_78_master
 query-builder-deployment: 2024.08.0_30_main
 user-management-ui-deployment: 2022.5.0-release
@@ -55,7 +56,7 @@ xintegrationservice: 2024.08.00_26_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.09.00_47_master
 xppatask: 2024.09.00_25_master
-xprocessflow: 2024.07.0-RELEASE
+xprocessflow: 2024.07.1_11_master
 xqueue: 2024.09.00_33_master
 xsp: 2024.08.00_283_master
 xswattool: 2024.02.4-release
