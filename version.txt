@@ -1,5 +1,5 @@
 ads: 2024.08.4_1925_master
-carest: 2024.02.0-release_24
+carest: 2024.02.0-release
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
 datalake-insights: 2024.05.1-release	
@@ -15,10 +15,10 @@ inmemcalc2: 2024.09.2_157_master
 jsql-builder-deployment: prod-2024.Q2.117
 metadata-service: 2024.09.01_461_master
 nova-app-designer-deployment: 2024.08.0_9_main
-nova-app-meta-api-deployment: 2022.06.0-Release
+nova-app-meta-api-deployment: 2022.06.0-release
 nova-app-viewer-deployment: 2024.08.0_40_main
 nova-components-deployment: 2024.08.0_17_main
-nova-custom-apps-ui-deployment: 2024.08.0_8_main_24
+nova-custom-apps-ui-deployment: 2024.08.0_8_main
 nova-framework-ui-deployment: 2024.08.0_14_main
 nova-ingress: 1.7.3
 nova-onboard-api-deployment: 2022.5.1-release
