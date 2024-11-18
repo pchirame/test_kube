@@ -62,3 +62,4 @@ xtoolkit: 2
 xtranslationservice: 2
 xmboserver: 1
 objectives-ui: 1
+xppatask: 6
