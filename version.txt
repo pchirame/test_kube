@@ -58,7 +58,7 @@ xmboserver: 2024.11.0_231_master
 objectives-ui: 2024.11.0_100_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.11.0_59_master
-xppatask: 2024.09.00_25_master
+xppatask: 2024.11.0_34_master
 xprocessflow: 2024.07.1_11_master
 xqueue: 2024.11.0_35_master
 xsp: 2024.11.0_293_master
