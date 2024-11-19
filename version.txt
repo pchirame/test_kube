@@ -1,8 +1,8 @@
 ads: 2024.08.4_1925_master
-carest: 2024.02.0-release
+carest: 2024.11.00_7_main
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
-dis: 2024.11.0_752_master
+dis: 2024.11.01_781_master
 datalake-insights: 2024.05.1-release
 datalake-restapp: 2024.05.1-release	
 datalakeincentevent: 2024.08.0_65_master
@@ -12,7 +12,7 @@ estimator-rest: 2024.02.0-release
 forecasting: 2024.11.0_develop_527
 iam: 2024.08.04_420_master
 euiam: 2024.08.04_420_master
-inmemcalc: 2024.11.0_210_master
+inmemcalc: 2024.11.01_216_master
 inmemcalc2: 2024.11.0_210_master
 jsql-builder-deployment: prod-2024.Q2.117
 metadata-service: 2024.11.01_565_master
@@ -55,7 +55,7 @@ xdocgen: 2024.02.0-release
 xexternalprocess: 2024.02.0-release
 xgridmgrplandoc: 2024.05.0-release
 xintegrationservice: 2024.08.00_26_master
-xmboserver: 2024.11.0_231_master
+xmboserver: 2024.11.01_237_master
 objectives-ui: 2024.11.0_100_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.11.0_59_master
@@ -64,5 +64,5 @@ xprocessflow: 2024.07.1_11_master
 xqueue: 2024.11.0_35_master
 xsp: 2024.11.0_293_master
 xswattool: 2024.02.4-release
-xtoolkit: 2024.11.01_226_master
+xtoolkit: 2024.11.02_240_master
 xtranslationservice: 2024.02.0-release
