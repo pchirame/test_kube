@@ -55,7 +55,7 @@ xdocgen: 2024.02.0-release
 xexternalprocess: 2024.02.0-release
 xgridmgrplandoc: 2024.05.0-release
 xintegrationservice: 2024.08.00_26_master
-xmboserver: 2024.11.01_240_master
+xmboserver: 2024.11.01_237_master
 objectives-ui: 2024.11.0_100_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.11.0_59_master
