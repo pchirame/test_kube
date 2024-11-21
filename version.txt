@@ -1,4 +1,4 @@
-ads: 2024.08.4_192512_master
+ads: 2024.11.0_2377_master
 carest: 2024.11.00_7_main
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
