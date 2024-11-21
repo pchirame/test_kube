@@ -36,6 +36,7 @@ user-policy-api-deployment: 1
 workflow-ui-deployment: 2
 xactly-push-notifications: 2
 xactly-sheet-deployment: 2
+xdbc-client-deployment : 1
 xauditservice: 2
 xbpm: 2
 xcachewt: 4
