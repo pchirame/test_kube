@@ -28,7 +28,6 @@ nova-query-sandbox-deployment: 2
 nova-xactly-sheet-deployment: 2
 nova-xdbc-api-deployment: 1
 nova-xdbc-client-deployment: 2
-nova-xactly-sheet-deployment: 2
 platform-territories-webui: 0
 qsf: 2
 query-builder-deployment: 2
