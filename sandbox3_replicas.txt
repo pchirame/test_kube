@@ -28,6 +28,7 @@ nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
 qsf: 2
 query-builder-deployment: 2
+platform-crediting-assignment-webui: 2
 user-management-ui-deployment: 1
 user-policy-api-deployment: 1
 workflow-ui-deployment: 2
