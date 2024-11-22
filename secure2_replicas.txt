@@ -19,8 +19,9 @@ nova-app-viewer-deployment: 2
 nova-components-deployment: 2
 nova-custom-apps-ui-deployment: 1
 nova-framework-ui-deployment: 1
-nova-ingress: 1
+nova-ingress: 2
 nova-onboard-api-deployment: 1
+platform-crediting-assignment-webui: 2
 nova-platform-design-system-deployment: 2
 nova-query-sandbox-deployment: 2
 nova-xactly-sheet-deployment: 2
