@@ -23,6 +23,7 @@ nova-onboard-api-deployment: 1
 nova-platform-design-system-deployment: 2
 nova-query-sandbox-deployment: 2
 nova-xactly-sheet-deployment: 2
+platform-crediting-assignment-webui: 2
 nova-xdbc-api-deployment: 1
 nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
