@@ -49,7 +49,7 @@ xdocapprovals-pdf: 2
 xdocgen: 1
 xexternalprocess: 2
 xgridmgrplandoc: 2
-xintegrationservice: 1
+xintegrationservice: 2
 xpn-rest-service: 1
 xppatask: 6
 xprocessflow: 2
