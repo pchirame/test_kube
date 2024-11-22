@@ -1,10 +1,10 @@
 ads: 2
-carest: 1
+carest: 2
 caweb: 2
 comms: 2
 datalakeincentevent: 1
 dis: 8
-docusign-service: 1
+docusign-service: 2
 emailtemplateservice: 2
 estimator-rest: 2
 iam: 3
@@ -18,6 +18,7 @@ nova-components-deployment: 2
 nova-custom-apps-ui-deployment: 2
 nova-framework-ui-deployment: 1
 nova-ingress: 2
+platform-crediting-assignment-webui: 2
 nova-onboard-api-deployment: 1
 nova-platform-design-system-deployment: 2
 nova-query-sandbox-deployment: 2
@@ -32,8 +33,8 @@ user-policy-api-deployment: 1
 workflow-ui-deployment: 2
 xactly-push-notifications: 1
 xactly-sheet-deployment: 2
-xauditservice: 1
-xbpm: 1
+xauditservice: 2
+xbpm: 2
 xcachewt: 4
 xcomputeadmin: 2
 xcomputeadminui: 2
@@ -42,7 +43,7 @@ xcomputenodeagent: 1
 xdbc-builder-deployment: 2
 xdbc-client-deployment: 2
 xdm: 4
-xdmsuiserver: 1
+xdmsuiserver: 2
 xdocapprovals: 2
 xdocapprovals-pdf: 2
 xdocgen: 1
@@ -54,9 +55,9 @@ xppatask: 6
 xprocessflow: 2
 xqueue: 1
 xsp: 1
-xswattool: 1
+xswattool: 2
 xtoolkit: 2
-xtranslationservice: 1
+xtranslationservice: 2
 forecasting: 2
 xmboserver: 2
 objectives-ui: 2
