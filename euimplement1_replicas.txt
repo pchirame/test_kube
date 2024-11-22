@@ -33,6 +33,7 @@ user-policy-api-deployment: 1
 workflow-ui-deployment: 2
 xactly-push-notifications: 2
 xauditservice: 2
+platform-crediting-assignment-webui: 2
 xbpm: 2
 xcachewt: 4
 xcomputeadmin: 2
