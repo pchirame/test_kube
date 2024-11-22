@@ -58,3 +58,6 @@ xsp: 3
 xswattool: 1
 xtoolkit: 2
 xtranslationservice: 2
+forecasting: 2
+xmboserver: 2
+objectives-ui: 2
