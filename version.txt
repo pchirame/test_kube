@@ -26,7 +26,7 @@ nova-ingress: 1.7.3
 nova-onboard-api-deployment: 2022.5.1-release
 nova-platform-design-system-deployment: prod-2024.Q3.898
 nova-query-sandbox-deployment: 2024.08.0_9_main
-nova-xactly-sheet-deployment: 2023.10.16-Release
+nova-xactly-sheet-deployment: prod-2024.Q2.133
 nova-xdbc-api-deployment: 2023.1.0-release
 nova-xdbc-client-deployment: 2024.08.0_32_main
 platform-territories-webui: 2024.08.0_76_main
