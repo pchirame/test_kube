@@ -1,4 +1,4 @@
-ads: 2024.11.1_2445_master
+ads: 2024.11.1_2731_master
 carest: 2024.11.00_7_main
 caweb: 2023.05.0-release
 comms: 2024.05.0-RELEASE
@@ -10,7 +10,7 @@ docusign-service: 2024.02.1-release
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2024.11.0_587_master
-iam: 2024.08.04_420_master
+iam: 2024.11.00_454_master
 euiam: 2024.08.04_420_master
 inmemcalc: 2024.11.01_216_master
 inmemcalc2: 2024.11.01_216_master
@@ -29,7 +29,7 @@ nova-query-sandbox-deployment: 2024.08.0_9_main
 nova-xactly-sheet-deployment: prod-2024.Q2.133
 nova-xdbc-api-deployment: 2023.1.0-release
 nova-xdbc-client-deployment: 2024.08.0_32_main
-platform-territories-webui: 2024.08.0_76_main
+platform-territories-webui: 2024.08.0_110_main
 platform-crediting-assignment-webui: 2024.09.00_52_main
 qsf: 2024.08.00_78_master
 query-builder-deployment: 2024.08.0_36_main
@@ -55,11 +55,11 @@ xdocgen: 2024.02.0-release
 xexternalprocess: 2024.02.0-release
 xgridmgrplandoc: 2024.05.0-release
 xintegrationservice: 2024.08.00_26_master
-xmboserver: 2024.11.02_245_master
+xmboserver: 2024.11.04_250_master
 objectives-ui: 2024.11.0_100_master
 xpn-rest-service: 2024.02.0-release
-xppamgr: 2024.11.0_59_master
-xppatask: 2024.11.0_34_master
+xppamgr: 2024.11.1_70_master
+xppatask: 2024.11.01_44_master
 xprocessflow: 2024.07.1_11_master
 xqueue: 2024.11.0_35_master
 xsp: 2024.11.0_293_master
