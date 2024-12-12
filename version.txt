@@ -10,8 +10,8 @@ docusign-service: 2024.02.1-release
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2024.11.0_587_master
-iam: 2024.11.00_454_master
-euiam: 2024.08.04_420_master
+iam: 2024.11.01_465_master
+euiam: 2024.11.01_465_master
 inmemcalc: 2024.11.01_216_master
 inmemcalc2: 2024.11.01_216_master
 jsql-builder-deployment: 2024.08.0_21_main
@@ -56,7 +56,7 @@ xexternalprocess: 2024.02.0-release
 xgridmgrplandoc: 2024.05.0-release
 xintegrationservice: 2024.08.00_26_master
 xmboserver: 2024.11.04_250_master
-objectives-ui: 2024.11.0_100_master
+objectives-ui: 2024.11.01_105_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.11.1_70_master
 xppatask: 2024.11.01_44_master
