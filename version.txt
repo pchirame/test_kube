@@ -20,11 +20,11 @@ nova-app-designer-deployment: 2024.08.0_164_main
 nova-app-meta-api-deployment: 2022.06.0-release
 nova-app-viewer-deployment: 2024.08.0_64_main
 nova-components-deployment: 2024.08.0_180_main
-nova-custom-apps-ui-deployment: 2024.08.0_20_main
-nova-framework-ui-deployment: 2024.08.0_20_main
+nova-custom-apps-ui-deployment: 2024.08.0_28_main
+nova-framework-ui-deployment: 2024.08.0_27_main
 nova-ingress: 1.7.3
 nova-onboard-api-deployment: 2022.5.1-release
-nova-platform-design-system-deployment: prod-2024.Q3.898
+nova-platform-design-system-deployment: prod-2024.Q4.960
 nova-query-sandbox-deployment: 2024.08.0_9_main
 nova-xactly-sheet-deployment: prod-2024.Q2.133
 nova-xdbc-api-deployment: 2023.1.0-release
