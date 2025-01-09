@@ -10,8 +10,8 @@ docusign-service: 2024.02.1-release
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2024.11.0_587_master
-iam: 2024.11.01_465_master
-euiam: 2024.11.01_465_master
+iam: 2024.11.02_493_master
+euiam: 2024.11.02_493_master
 inmemcalc: 2024.11.01_216_master
 inmemcalc2: 2024.11.01_216_master
 jsql-builder-deployment: 2024.08.0_21_main
@@ -47,9 +47,9 @@ xcomputemonitoring: 2024.05.2-pulsar-release
 xcomputenodeagent: 2024.05.0-pulsar-release
 xdbc-builder-deployment: 2023.02.03-Release
 xdbc-client-deployment: 2024.08.0_32_main
-xdm: 2024.11.01_287_master
+xdm: 2024.11.02_423_master
 xdmsuiserver: 2024.02.0-release
-xdocapprovals: 2024.11.0_128_master
+xdocapprovals: 2024.11.1_147_master
 xdocapprovals-pdf: 2024.02.1-release
 xdocgen: 2024.02.0-release
 xexternalprocess: 2024.02.0-release
