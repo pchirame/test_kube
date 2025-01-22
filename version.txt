@@ -28,7 +28,7 @@ nova-platform-design-system-deployment: prod-2025.Q1.983
 nova-query-sandbox-deployment: 2024.08.0_9_main
 nova-xactly-sheet-deployment: prod-2024.Q2.133
 nova-xdbc-api-deployment: 2023.1.0-release
-nova-xdbc-client-deployment: 2024.08.0_32_main
+nova-xdbc-client-deployment: 2024.08.0_40_main
 platform-territories-webui: 2024.08.0_110_main
 platform-crediting-assignment-webui: 2024.09.00_52_main
 qsf: 2024.08.00_78_master
