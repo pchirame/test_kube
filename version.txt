@@ -19,7 +19,7 @@ metadata-service: 2024.11.02_622_master
 nova-app-designer-deployment: 2024.08.0_230_main
 nova-app-meta-api-deployment: 2022.06.0-release
 nova-app-viewer-deployment: 2024.08.0_72_main
-nova-components-deployment: 2024.08.0_308_main
+nova-components-deployment: 2024.08.0_314_main
 nova-custom-apps-ui-deployment: 2024.08.0_28_main
 nova-framework-ui-deployment: 2024.08.0_32_main
 nova-ingress: 1.7.3
@@ -30,7 +30,7 @@ nova-xactly-sheet-deployment: prod-2024.Q2.133
 nova-xdbc-api-deployment: 2023.1.0-release
 nova-xdbc-client-deployment: 2024.08.0_40_main
 platform-territories-webui: 2024.08.0_110_main
-platform-crediting-assignment-webui: 2024.09.00_52_main
+platform-crediting-assignment-webui: 2024.09.00_58_main
 qsf: 2024.08.00_78_master
 query-builder-deployment: 2024.08.0_59_main
 user-management-ui-deployment: 2022.5.0-release
