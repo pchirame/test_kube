@@ -5,7 +5,7 @@ comms: 2
 datalake-insights: 2
 datalake-restapp: 2
 datalakeincentevent: 2
-dis: 16
+dis: 8
 docusign-service: 2
 emailtemplateservice: 2
 estimator-rest: 2
@@ -17,7 +17,7 @@ nova-app-designer-deployment: 2
 nova-app-meta-api-deployment: 1
 nova-app-viewer-deployment: 2
 nova-components-deployment: 2
-nova-custom-apps-ui-deployment: 1
+nova-custom-apps-ui-deployment: 2
 nova-framework-ui-deployment: 1
 nova-ingress: 2
 platform-crediting-assignment-webui: 2
@@ -27,14 +27,17 @@ nova-query-sandbox-deployment: 2
 nova-xactly-sheet-deployment: 2
 nova-xdbc-api-deployment: 1
 nova-xdbc-client-deployment: 2
-platform-territories-webui: 1
+user-policy-api-deployment: 1
+platform-territories-webui: 2
 qsf: 2
 query-builder-deployment: 2
 user-management-ui-deployment: 1
 workflow-ui-deployment: 2
+user-policy-api-deployment: 1
 xactly-push-notifications: 2
 xauditservice: 2
 xbpm: 2
+xppamgr: 6
 xcachewt: 4
 xcomputeadmin: 2
 xcomputeadminui: 2
