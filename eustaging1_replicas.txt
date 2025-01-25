@@ -54,6 +54,7 @@ xgridmgrplandoc: 2
 xintegrationservice: 2
 xpn-rest-service: 2
 xppatask: 6
+xppamgr: 6
 xprocessflow: 2
 xqueue: 2
 xsp: 3
