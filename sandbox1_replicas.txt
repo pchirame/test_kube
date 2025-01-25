@@ -53,6 +53,7 @@ xintegrationservice: 2
 xpn-rest-service: 2
 xppatask: 6
 xprocessflow: 2
+xppatask: 6
 xqueue: 2
 xsp: 3
 xswattool: 1
