@@ -28,6 +28,7 @@ nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
 xactly-sheet-deployment: 2
 qsf: 2
+xppamgr: 6
 query-builder-deployment: 2
 user-management-ui-deployment: 1
 user-policy-api-deployment: 1
