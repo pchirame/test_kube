@@ -1,11 +1,11 @@
 ads: 2
-carest: 1
+carest: 2
 caweb: 2
 comms: 2
 datalakeincentevent: 1
 dis: 8
 docusign-service: 2
-emailtemplateservice: 1
+emailtemplateservice: 2
 estimator-rest: 1
 iam: 4
 inmemcalc: 3
@@ -27,6 +27,7 @@ platform-crediting-assignment-webui: 2
 nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
 qsf: 2
+xppamgr: 6
 query-builder-deployment: 2
 user-management-ui-deployment: 1
 user-policy-api-deployment: 1
@@ -53,7 +54,7 @@ xpparepomigration-secure6: 0
 xppatask: 6
 xprocessflow: 2
 xqueue: 1
-xsp: 1
+xsp: 2
 xswattool: 1
 xtoolkit: 2
 xtranslationservice: 1
