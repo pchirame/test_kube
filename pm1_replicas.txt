@@ -27,6 +27,7 @@ nova-xdbc-api-deployment: 1
 nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
 qsf: 2
+xppamgr: 6
 query-builder-deployment: 2
 user-management-ui-deployment: 1
 user-policy-api-deployment: 1
@@ -53,8 +54,8 @@ xintegrationservice: 1
 xpn-rest-service: 1
 xppatask: 6
 xprocessflow: 2
-xqueue: 1
-xsp: 1
+xqueue: 2
+xsp: 2
 xswattool: 1
 xtoolkit: 2
 xtranslationservice: 1
