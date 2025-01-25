@@ -47,6 +47,7 @@ xdmsuiserver: 2
 xdocapprovals: 2
 xdocapprovals-pdf: 2
 xdocgen: 1
+xppamgr: 6
 xexternalprocess: 2
 xgridmgrplandoc: 2
 xintegrationservice: 2
