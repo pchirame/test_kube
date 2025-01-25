@@ -45,6 +45,7 @@ xdbc-builder-deployment: 2
 xdbc-client-deployment: 2
 xdm: 4
 xdmsuiserver: 2
+xppamgr: 6
 xdocapprovals: 2
 xdocapprovals-pdf: 2
 xdocgen: 2
