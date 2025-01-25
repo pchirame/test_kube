@@ -43,12 +43,12 @@ xcomputemonitoring: 1
 xcomputenodeagent: 1
 xdbc-builder-deployment: 2
 xdbc-client-deployment: 2
-xdm: 1
+xdm: 2
 xdmsuiserver: 2
 xdocapprovals: 2
 xdocapprovals-pdf: 2
 xdocgen: 1
-xexternalprocess: 1
+xexternalprocess: 2
 xgridmgrplandoc: 2
 xintegrationservice: 1
 xpn-rest-service: 1
