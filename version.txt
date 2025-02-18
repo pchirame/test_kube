@@ -1,4 +1,4 @@
-ads: 2025.01.0_3922_master
+ads: 2025.01.01_4283_master
 carest: 2024.11.01_28_main
 caweb: 2023.05.0-release
 comms: 2025.01.0_30_master
@@ -9,7 +9,7 @@ datalakeincentevent: 2025.02.00_117_master
 docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
-forecasting: 2025.01.0_1123_master
+forecasting: 2025.02.00_1195_master
 iam: 2024.11.04_529_master
 euiam: 2024.11.04_529_master
 inmemcalc: 2025.02.00_266_master
@@ -56,7 +56,7 @@ xexternalprocess: 2024.02.0-release
 xgridmgrplandoc: 2024.05.0-release
 xintegrationservice: 2024.08.00_26_master
 xmboserver: 2024.11.04_250_master
-objectives-ui: 2024.11.01_105_master
+objectives-ui: 2025.02.0_113_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2024.11.1_70_master
 xppatask: 2024.11.01_44_master
@@ -64,5 +64,5 @@ xprocessflow: 2025.01.0_24_master
 xqueue: 2024.11.0_35_master
 xsp: 2024.11.0_293_master
 xswattool: 2024.02.4-release
-xtoolkit: 2025.02.00_372_master
+xtoolkit: 2025.02.01_379_master
 xtranslationservice: 2024.02.0-release
