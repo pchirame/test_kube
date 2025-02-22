@@ -13,7 +13,7 @@ forecasting: 2025.02.01_1231_master
 iam: 2024.11.04_529_master
 euiam: 2024.11.04_529_master
 inmemcalc: 2025.02.00_266_master
-inmemcalc2: 2024.11.02_250_master
+inmemcalc2: 2025.02.00_266_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.02.00_636_master
 nova-app-designer-deployment: 2024.08.0_230_main
