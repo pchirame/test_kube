@@ -57,7 +57,7 @@ xprocessflow: 2
 xqueue: 2
 xsp: 2
 xswattool: 2
-xtoolkit: 1
+xtoolkit: 2
 xtranslationservice: 2
 forecasting: 2
 xmboserver: 2
