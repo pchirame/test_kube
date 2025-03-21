@@ -2,7 +2,7 @@ ads: 2
 carest: 2
 caweb: 2
 comms: 2
-datalake-insights: 2
+datalake-insights: 5
 datalake-restapp: 2
 datalakeincentevent: 2
 dis: 8
@@ -30,7 +30,7 @@ nova-xdbc-client-deployment: 2
 platform-territories-webui: 2
 qsf: 2
 query-builder-deployment: 2
-user-management-ui-deployment: 1
+user-management-ui-deployment: 2
 workflow-ui-deployment: 2
 user-policy-api-deployment: 1
 xactly-push-notifications: 2
