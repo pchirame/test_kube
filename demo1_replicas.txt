@@ -36,7 +36,6 @@ xactly-sheet-deployment: 2
 xauditservice: 2
 xbpm: 2
 xcachewt: 4
-xppamgr: 6
 xcomputeadmin: 2
 xcomputeadminui: 2
 xcomputemonitoring: 1
