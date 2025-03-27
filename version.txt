@@ -10,12 +10,12 @@ docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2025.02.02_1451_master
-iam: 2024.11.04_529_master
-euiam: 2024.11.04_529_master
-inmemcalc: 2025.02.00_266_master
+iam: 2025.02.00_577_master
+euiam: 2025.02.00_577_master
+inmemcalc: 2025.02.01_301_master
 inmemcalc2: 2025.02.00_266_master
 jsql-builder-deployment: 2024.08.0_21_main
-metadata-service: 2025.02.00_636_master
+metadata-service: 2025.02.01_689_master
 nova-app-designer-deployment: 2024.08.0_414_main
 nova-app-meta-api-deployment: 2022.06.0-release
 nova-app-viewer-deployment: 2024.08.0_90_main
@@ -47,7 +47,7 @@ xcomputemonitoring: 2024.05.2-pulsar-release
 xcomputenodeagent: 2024.05.0-pulsar-release
 xdbc-builder-deployment: 2023.02.03-Release
 xdbc-client-deployment: 2024.08.0_40_main
-xdm: 2025.02.01_525_master
+xdm: 2025.02.02_561_master
 xdmsuiserver: 2024.02.0-release
 xdocapprovals: 2025.02.00_173_master
 xdocapprovals-pdf: 2025.02.00_32_master
