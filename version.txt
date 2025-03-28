@@ -12,7 +12,7 @@ estimator-rest: 2024.02.0-release
 forecasting: 2025.02.02_1451_master
 iam: 2025.02.00_577_master
 euiam: 2025.02.00_577_master
-inmemcalc: 2025.02.01_301_master
+inmemcalc: 2025.02.02_314_master
 inmemcalc2: 2025.02.00_266_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.02.01_689_master
