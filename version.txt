@@ -1,15 +1,15 @@
 ads: 2025.03.1_5212_master
-carest: 2024.11.01_28_main
+carest: 2025.02.00_32_main
 caweb: 2023.05.0-release
 comms: 2025.01.0_30_master
-dis: 2025.02.00_1316_master
+dis: 2025.02.05_1517_master
 datalake-insights: 2025.02.01_129_master
 datalake-restapp: 2024.05.1-release	
 datalakeincentevent: 2025.02.00_117_master
 docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
-forecasting: 2025.02.02_1451_master
+forecasting: 2025.02.04_1678_master
 iam: 2025.02.00_577_master
 euiam: 2025.02.00_577_master
 inmemcalc: 2025.02.02_314_master
@@ -47,7 +47,7 @@ xcomputemonitoring: 2024.05.2-pulsar-release
 xcomputenodeagent: 2024.05.0-pulsar-release
 xdbc-builder-deployment: 2023.02.03-Release
 xdbc-client-deployment: 2024.08.0_40_main
-xdm: 2025.02.02_561_master
+xdm: 2025.02.03_607_master
 xdmsuiserver: 2024.02.0-release
 xdocapprovals: 2025.02.00_173_master
 xdocapprovals-pdf: 2025.02.00_32_master
@@ -64,5 +64,5 @@ xprocessflow: 2025.01.0_24_master
 xqueue: 2024.11.0_35_master
 xsp: 2024.11.0_293_master
 xswattool: 2024.02.4-release
-xtoolkit: 2025.02.02_404_master
+xtoolkit: 2025.02.03_435_master
 xtranslationservice: 2024.02.0-release
