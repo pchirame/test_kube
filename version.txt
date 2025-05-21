@@ -64,5 +64,5 @@ xprocessflow: 2025.04.0_54_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
 xswattool: 2024.02.4-release
-xtoolkit: 2025.02.03_435_master
+xtoolkit: 2025.05.01_497_master
 xtranslationservice: 2024.02.0-release
