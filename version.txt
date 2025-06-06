@@ -2,7 +2,7 @@ ads: 2025.06.1_7330_master
 carest: 2025.02.00_32_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
-dis: 2025.05.01_1702_master
+dis: 2025.05.02_1782_master
 datalake-insights: 2025.05.00_146_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2025.02.00_117_master
