@@ -3,7 +3,7 @@ carest: 2
 caweb: 2
 comms: 2
 datalakeincentevent: 1
-dis: 8
+dis: 12
 docusign-service: 2
 emailtemplateservice: 2
 estimator-rest: 2
