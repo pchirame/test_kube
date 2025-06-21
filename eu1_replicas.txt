@@ -20,7 +20,7 @@ nova-app-viewer-deployment: 2
 nova-components-deployment: 2
 nova-custom-apps-ui-deployment: 2
 nova-framework-ui-deployment: 1
-nova-ingress: 2
+nova-ingress: 1
 platform-crediting-assignment-webui: 2
 nova-onboard-api-deployment: 1
 nova-platform-design-system-deployment: 2
