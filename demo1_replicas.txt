@@ -43,7 +43,7 @@ xcomputenodeagent: 1
 xdataservice: 1
 xdbc-builder-deployment: 2
 xdbc-client-deployment: 2
-xdm: 3
+xdm: 2
 xdmsuiserver: 2
 xdocapprovals: 2
 xdocapprovals-pdf: 2
