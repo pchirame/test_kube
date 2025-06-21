@@ -55,7 +55,7 @@ xpn-rest-service: 2
 xppatask: 6
 xprocessflow: 2
 xqueue: 2
-xsp: 3
+xsp: 2
 xswattool: 1
 xtoolkit: 2
 xtranslationservice: 2
