@@ -29,7 +29,7 @@ workflow-ui-deployment: 2
 xactly-push-notifications: 1
 xactly-sheet-deployment: 2
 xauditservice: 1
-xbpm: 1
+xbpm: 2
 xcachewt: 4
 xcomputeadmin: 2
 xcomputeadminui: 2
