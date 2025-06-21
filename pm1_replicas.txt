@@ -6,7 +6,7 @@ datalakeincentevent: 1
 dis: 2
 docusign-service: 1
 emailtemplateservice: 2
-estimator-rest: 1
+estimator-rest: 2
 iam: 2
 inmemcalc: 3
 jsql-builder-deployment: 2
@@ -45,7 +45,7 @@ xdbc-builder-deployment: 2
 xdbc-client-deployment: 2
 xdm: 2
 xdmsuiserver: 2
-xdocapprovals: 2
+xdocapprovals: 1
 xdocapprovals-pdf: 2
 xdocgen: 1
 xexternalprocess: 2
@@ -58,7 +58,7 @@ xqueue: 2
 xsp: 2
 xswattool: 1
 xtoolkit: 2
-xtranslationservice: 1
+xtranslationservice: 2
 forecasting: 2
 xmboserver: 2
 objectives-ui: 2
