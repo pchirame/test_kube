@@ -1,8 +1,8 @@
-ads: 2025.06.3_7691_master
+ads: 2025.06.3_7830_master
 carest: 2025.02.00_32_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
-dis: 2025.05.02_1782_master
+dis: 2025.05.03_1800_master
 datalake-insights: 2025.05.00_146_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2025.02.00_117_master
@@ -15,7 +15,7 @@ euiam: 2025.05.01_623_master
 inmemcalc: 2025.02.03_316_master
 inmemcalc2: 2025.02.03_316_master
 jsql-builder-deployment: 2024.08.0_21_main
-metadata-service: 2025.05.00_787_master
+metadata-service: 2025.05.01_810_master
 nova-app-designer-deployment: 2024.08.0_728_main
 nova-app-viewer-deployment: 2024.08.0_131_main
 nova-components-deployment: 2024.08.0_799_main
@@ -28,7 +28,7 @@ nova-xactly-sheet-deployment: 2024.08.0_42_main
 nova-xdbc-client-deployment: 2024.08.0_40_main
 platform-territories-webui: 2024.08.0_110_main
 platform-crediting-assignment-webui: 2024.09.00_58_main
-qsf: 2024.08.00_78_master
+qsf: 2025.05.00_111_master
 query-builder-deployment: 2024.08.0_159_main
 workflow-ui-deployment: 2024.08.0_120_main
 xactly-push-notifications: 2025.02.00_10_master
@@ -43,7 +43,7 @@ xcomputenodeagent: 2024.05.0-pulsar-release
 xdbc-client-deployment: 2024.08.0_40_main
 xdm: 2025.05.02_682_master
 xdmsuiserver: 2024.02.0-release
-xdocapprovals: 2025.02.02_190_master
+xdocapprovals: 2025.05.00_198_master
 xdocapprovals-pdf: 2025.02.00_32_master
 xdocgen: 2024.02.0-release
 xexternalprocess: 2024.02.0-release
@@ -53,7 +53,7 @@ xmboserver: 2024.11.04_250_master
 objectives-ui: 2025.02.0_113_master
 xpn-rest-service: 2024.02.0-release
 xppamgr: 2025.02.00_76_master
-xppatask: 2025.05.02_79_master
+xppatask: 2025.05.03_86_master
 xprocessflow: 2025.06.0_63_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
