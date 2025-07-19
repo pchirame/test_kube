@@ -26,7 +26,7 @@ platform-territories-webui: 2
 qsf: 2
 query-builder-deployment: 2
 workflow-ui-deployment: 2
-xactly-push-notifications: 1
+xactly-push-notifications: 2
 xactly-sheet-deployment: 2
 xauditservice: 2
 xbpm: 2
