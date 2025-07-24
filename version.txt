@@ -10,8 +10,8 @@ docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2025.05.00_1833_master
-iam: 2025.05.01_623_master
-euiam: 2025.05.01_623_master
+iam: 2025.05.02_660_master
+euiam: 2025.05.02_660_master
 inmemcalc: 2025.05.00_364_master
 inmemcalc2: 2025.02.03_316_master
 jsql-builder-deployment: 2024.08.0_21_main
