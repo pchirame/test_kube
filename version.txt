@@ -18,7 +18,7 @@ jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.05.02_877_master
 nova-app-designer-deployment: 2024.08.0_881_main
 nova-app-viewer-deployment: 2024.08.0_151_main
-nova-components-deployment: 2024.08.0_1246_mai
+nova-components-deployment: 2024.08.0_1246_main
 nova-custom-apps-ui-deployment: 2024.08.0_92_main
 nova-framework-ui-deployment: 2024.08.0_70_main
 nova-ingress: 1.7.3
