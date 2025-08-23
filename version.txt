@@ -2,7 +2,7 @@ ads: 2025.08.0_9349_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
-dis: 2025.05.07_1907_master
+dis: 2025.05.09_1954_master
 datalake-insights: 2025.05.00_146_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2025.05.00_144_master
@@ -57,6 +57,6 @@ xppatask: 2025.08.00_100_master
 xprocessflow: 2025.08.0_123_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
-xswattool: 2024.07.13_89_master
+xswattool: 2024.07.13_99_master
 xtoolkit: 2025.08.00_595_master
 xtranslationservice: 2024.02.0-release
