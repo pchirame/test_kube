@@ -1,4 +1,4 @@
-ads: 2025.08.0_9349_master
+ads: 2025.08.1_9599_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
@@ -9,7 +9,7 @@ datalakeincentevent: 2025.05.00_144_master
 docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
-forecasting: 2025.08.00_2420_master
+forecasting: 2025.08.01_2460_master
 iam: 2025.05.02_660_master
 euiam: 2025.05.02_660_master
 inmemcalc: 2025.08.00_377_master
