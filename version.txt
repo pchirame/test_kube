@@ -10,12 +10,12 @@ docusign-service: 2025.02.00_15_master
 emailtemplateservice: 2024.11.0_9_master
 estimator-rest: 2024.02.0-release
 forecasting: 2025.08.02_2661_master
-iam: 2025.05.02_660_master
-euiam: 2025.05.02_660_master
+iam: 2025.08.00_684_master
+euiam: 2025.08.00_684_master
 inmemcalc: 2025.08.01_406_master
 inmemcalc2: 2025.02.03_316_master
 jsql-builder-deployment: 2024.08.0_21_main
-metadata-service: 2025.08.01_946_master
+metadata-service: 2025.08.02_1001_master
 nova-app-designer-deployment: 2024.08.0_946_main
 nova-app-viewer-deployment: 2024.08.0_173_main
 nova-components-deployment: 2024.08.0_1422_main
@@ -41,10 +41,10 @@ xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2024.05.2-pulsar-release
 xcomputenodeagent: 2024.05.0-pulsar-release
 xdbc-client-deployment: 2024.08.0_107_main
-xdm: 2025.08.00_756_master
+xdm: 2025.08.01_780_master
 xdmsuiserver: 2024.02.0-release
-xdocapprovals: 2025.08.00_208_master
-xdocapprovals-pdf: 2025.02.00_32_master
+xdocapprovals: 2025.08.01_214_master
+xdocapprovals-pdf: 2025.08.00_44_master
 xdocgen: 2024.02.0-release
 xexternalprocess: 2025.08.00_10_master
 xgridmgrplandoc: 2025.02.00_38_master
@@ -57,6 +57,6 @@ xppatask: 2025.08.00_100_master
 xprocessflow: 2025.09.0_147_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
-xswattool: 2024.07.13_99_master
+xswattool: 2025.08.01_618_master
 xtoolkit: 2025.08.00_595_master
 xtranslationservice: 2024.02.0-release
