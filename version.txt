@@ -13,7 +13,7 @@ forecasting: 2025.08.02_2661_master
 iam: 2025.08.00_684_master
 euiam: 2025.08.00_684_master
 inmemcalc: 2025.08.01_406_master
-inmemcalc2: 2025.02.03_316_master
+inmemcalc2: 2025.08.01_406_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.08.02_1001_master
 nova-app-designer-deployment: 2024.08.0_946_main
@@ -57,6 +57,6 @@ xppatask: 2025.08.00_100_master
 xprocessflow: 2025.09.0_147_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
-xswattool: 2025.08.01_618_master
-xtoolkit: 2025.08.00_595_master
+xswattool: 2024.07.13_89_master
+xtoolkit: 2025.08.01_618_master
 xtranslationservice: 2024.02.0-release
