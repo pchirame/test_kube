@@ -57,6 +57,6 @@ xppatask: 2025.08.00_100_master
 xprocessflow: 2025.09.0_147_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.02.01_346_master
-xswattool: 2024.07.13_89_master
+xswattool: 2024.07.13_99_master
 xtoolkit: 2025.08.01_618_master
 xtranslationservice: 2024.02.0-release
