@@ -5,7 +5,7 @@ comms: 2
 datalakeincentevent: 1
 dis: 12
 docusign-service: 2
-emailtemplateservice: 1
+emailtemplateservice: 2
 estimator-rest: 2
 iam: 3
 inmemcalc: 3
