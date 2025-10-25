@@ -44,7 +44,7 @@ xdocgen: 2
 xexternalprocess: 2
 xgridmgrplandoc: 2
 xintegrationservice: 2
-xpn-rest-service: 1
+xpn-rest-service: 2
 xppatask: 6
 xppamgr: 6
 xprocessflow: 2
