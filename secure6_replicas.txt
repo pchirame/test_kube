@@ -39,7 +39,7 @@ xdm: 6
 xdmsuiserver: 1
 xdocapprovals: 2
 xdocapprovals-pdf: 2
-xdocgen: 1
+xdocgen: 2
 xexternalprocess: 1
 xgridmgrplandoc: 2
 xintegrationservice: 1
