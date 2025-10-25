@@ -1,4 +1,5 @@
-ads: 2
+ads: 4
+ads-benchmarking: 1
 carest: 2
 caweb: 2
 comms: 2
