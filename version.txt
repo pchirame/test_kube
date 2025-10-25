@@ -14,7 +14,7 @@ forecasting: 2025.08.02_2661_master
 iam: 2025.08.01_704_master
 euiam: 2025.08.01_704_master
 inmemcalc: 2025.08.03_448_master
-inmemcalc2: 2025.08.01_406_master
+inmemcalc2: 2025.08.03_448_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.08.05_1111_master
 nova-app-designer-deployment: 2024.08.0_946_main
@@ -33,7 +33,6 @@ qsf: 2025.05.00_111_master
 query-builder-deployment: 2024.08.0_180_main
 workflow-ui-deployment: 2024.08.0_126_main
 xactly-push-notifications: 2025.02.00_10_master
-xactly-sheet-deployment: prod-2024.Q2.133
 xauditservice: 2025.08.0_6_master
 xbpm: 2024.02.0-release
 xcachewt: 2025.05.00_101_master
@@ -41,7 +40,6 @@ xcomputeadmin: 2025.08.00_26_master
 xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2025.08.00_26_master
 xcomputenodeagent: 2024.05.0-pulsar-release
-xdbc-client-deployment: 2024.08.0_107_main
 xdm: 2025.08.04_840_master
 xdmsuiserver: 2025.08.00_9_master
 xdocapprovals: 2025.08.03_229_master
