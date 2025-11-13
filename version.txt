@@ -53,7 +53,7 @@ objectives-ui: 2025.02.0_113_master
 xpn-rest-service: 2025.08.00_13_master
 xppamgr: 2025.08.00_88_master
 xppatask: 2025.08.00_100_master
-xprocessflow: 22025.10.0_149_master
+xprocessflow: 2025.10.0_149_master
 xqueue: 2025.05.00_54_master
 xsp: 2025.08.00_396_master
 xswattool: 2024.07.13_99_master
