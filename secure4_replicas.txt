@@ -1,5 +1,6 @@
-ads: 2
+ads: 4
 carest: 2
+ads-benchmarking: 2
 caweb: 2
 comms: 2
 datalake-insights: 5
