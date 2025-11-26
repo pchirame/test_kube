@@ -15,7 +15,7 @@ forecasting: 2025.10.00_3233_master
 iam: 2025.11.00_715_master
 euiam: 2025.11.00_715_master
 inmemcalc: 2025.11.00_461_master
-inmemcalc2: 2024.05.0-pulsar-release
+inmemcalc2: 2025.11.00_461_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.11.00_1163_master
 nova-app-designer-deployment: 2024.08.0_1020_main
