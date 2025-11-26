@@ -3,6 +3,7 @@ ads-benchmarking: 2025.08.00_171_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
+connect-ui: 2025.02.1_67_master_nov
 dis: 2025.11.00_2108_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
