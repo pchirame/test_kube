@@ -8,7 +8,7 @@ dis: 2025.11.00_2108_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2025.05.00_144_master
-docusign-service: 2025.08.00_24_master
+docusign-service: 2025.11.00_30_master
 emailtemplateservice: 2025.08.00_21_master
 estimator-rest: 2025.11.00_9_master
 forecasting: 2025.10.00_3233_master
@@ -41,7 +41,7 @@ xcomputeadmin: 2025.08.00_26_master
 xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2025.08.00_26_master
 xcomputenodeagent: 2024.05.0-pulsar-release
-xdm: 2025.11.01_875_master
+xdm: 2025.11.02_882_master
 xdmsuiserver: 2025.08.00_9_master
 xdocapprovals: 2025.08.03_229_master
 xdocapprovals-pdf: 2025.08.00_44_master
@@ -58,5 +58,5 @@ xprocessflow: 2025.10.0_149_master
 xqueue: 2025.11.00_99_master
 xsp: 2025.08.00_396_master
 xswattool: 2024.07.13_99_master
-xtoolkit: 2025.11.00_667_master
+xtoolkit: 2025.11.01_686_master
 xtranslationservice: 2025.08.00_38_master
