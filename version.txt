@@ -3,7 +3,7 @@ ads-benchmarking: 2025.08.00_171_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 comms: 2025.06.0_38_master
-connect-ui: 2025.02.1_67_master_nov
+connect-ui: 2025.11.01_70_master
 dis: 2025.11.00_2108_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
@@ -12,12 +12,12 @@ docusign-service: 2025.11.00_30_master
 emailtemplateservice: 2025.08.00_21_master
 estimator-rest: 2025.11.00_9_master
 forecasting: 2025.10.00_3233_master
-iam: 2025.11.00_715_master
-euiam: 2025.11.00_715_master
+iam: 2025.11.01_726_master
+euiam: 2025.11.01_726_master
 inmemcalc: 2025.11.00_461_master
 inmemcalc2: 2025.11.00_461_master
 jsql-builder-deployment: 2024.08.0_21_main
-metadata-service: 2025.11.00_1163_master
+metadata-service: 2025.11.01_1173_master
 nova-app-designer-deployment: 2024.08.0_1020_main
 nova-app-viewer-deployment: 2024.08.0_189_main
 nova-components-deployment: 2024.08.0_1752_main
@@ -41,7 +41,7 @@ xcomputeadmin: 2025.08.00_26_master
 xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2025.08.00_26_master
 xcomputenodeagent: 2024.05.0-pulsar-release
-xdm: 2025.11.02_882_master
+xdm: 2025.11.03_899_master
 xdmsuiserver: 2025.08.00_9_master
 xdocapprovals: 2025.08.03_229_master
 xdocapprovals-pdf: 2025.08.00_44_master
