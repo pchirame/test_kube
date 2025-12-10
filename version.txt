@@ -60,3 +60,5 @@ xsp: 2025.08.00_396_master
 xswattool: 2024.07.13_99_master
 xtoolkit: 2025.11.01_686_master
 xtranslationservice: 2025.08.00_38_master
+connect-ui: 2025.11.01_70_master
+
