@@ -15,7 +15,7 @@ forecasting: 2026.01.00_3768_master
 iam: 2025.11.02_740_master
 euiam: 2025.11.02_740_master
 inmemcalc: 2025.11.01_537_master
-inmemcalc2: 2025.11.00_461_master
+inmemcalc2: 2025.11.01_537_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.11.02_1200_master
 nova-app-designer-deployment: 2024.08.0_1174_main
@@ -36,7 +36,7 @@ workflow-ui-deployment: 2024.08.0_132_main
 xactly-push-notifications: 2025.02.00_10_master
 xauditservice: 2025.11.00_9_master
 xbpm: 2024.02.0-release
-xcachewt: 2025.05.00_101_master
+xcachewt: 2025.05.00_101_master(Sandbox1, Sandbox3, Sandbox4, Training1,demo1)
 xcomputeadmin: 2025.08.00_26_master
 xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2025.08.00_26_master
