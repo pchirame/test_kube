@@ -36,7 +36,7 @@ workflow-ui-deployment: 2024.08.0_132_main
 xactly-push-notifications: 2025.02.00_10_master
 xauditservice: 2025.11.00_9_master
 xbpm: 2024.02.0-release
-xcachewt: 2025.05.00_101_master
+xcachewt: 2025.11.00_124_master
 xcomputeadmin: 2025.08.00_26_master
 xcomputeadminui: 2024.05.0-pulsar-release
 xcomputemonitoring: 2025.08.00_26_master
