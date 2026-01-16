@@ -4,7 +4,7 @@ carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 comms: 2026.01.0_62_master
 connect-ui: 2025.11.01_70_master
-dis: 2025.11.00_2108_master
+dis: 2025.11.01_2128_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2025.05.00_144_master
@@ -14,7 +14,7 @@ estimator-rest: 2025.11.00_9_master
 forecasting: 2026.01.00_3768_master
 iam: 2025.11.02_740_master
 euiam: 2025.11.02_740_master
-inmemcalc: 2025.11.00_461_master
+inmemcalc: 2025.11.01_537_master
 inmemcalc2: 2025.11.00_461_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.11.02_1200_master
