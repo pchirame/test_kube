@@ -1,4 +1,4 @@
-ads: 2026.01.0_13802_master(prime) 2026.01.0-SNAPSHOT_13834_release_admin_master-(non-prime)
+ads: 2026.01.0-SNAPSHOT_13834_release_admin_master
 ads-benchmarking: 2025.08.00_171_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
