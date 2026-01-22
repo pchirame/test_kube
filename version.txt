@@ -1,5 +1,4 @@
-ads: 2026.01.0_13931_master(sec1,sec2,sec3,sec4,sec5,sec6,eu1)
-    2026.01.0-SNAPSHOT_13932_release_admin_master
+ads: 2026.01.0_13931_master ->prime | 2026.01.0-SNAPSHOT_13932_release_admin_master ->non-prime
 ads-benchmarking: 2025.08.00_171_master
 carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
