@@ -61,3 +61,4 @@ incentadminserver: 7
 msgincent: 2
 incentadminui: 1
 ads-incent: 2
+calcbox: 3
