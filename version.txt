@@ -14,8 +14,8 @@ estimator-rest: 2025.11.00_9_master
 forecasting: 2026.01.00_3768_master
 iam: 2025.11.02_740_master
 euiam: 2025.11.02_740_master
-inmemcalc: 2025.11.02_583_master
-inmemcalc2: 2025.11.02_583_master
+inmemcalc: 2025.11.03_585_master
+inmemcalc2: 2025.11.03_585_master
 jsql-builder-deployment: 2024.08.0_21_main
 metadata-service: 2025.11.02_1200_master
 nova-app-designer-deployment: 2024.08.0_1174_main
