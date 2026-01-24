@@ -59,7 +59,7 @@ forecasting: 2
 xmboserver: 2
 objectives-ui: 2
 connect-ui: 2
-incentadminserver: 7
+incentadminserver: 6
 msgincent: 2
 incentadminui: 1
 ads-incent: 2
