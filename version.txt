@@ -5,8 +5,8 @@ carest: 2025.08.00_57_main
 caweb: 2023.05.0-release
 calcbox: 2025.11.01_140_master
 comms: 2026.01.0_62_master
-connect-ui: 2025.11.01_70_master
-dis: 2025.11.06_2172_master
+connect-ui: 2026.02.0_76_master
+dis: 2026.02.00_2188_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2026.02.00_163_master
@@ -55,7 +55,7 @@ xmboserver: 2024.11.04_250_master
 objectives-ui: 2025.11.00_124_master
 xpn-rest-service: 2025.08.00_13_master
 xppamgr: 2025.11.01_148_master
-xppatask: 2025.11.01_210_master
+xppatask: 2026.02.00_232_master
 xprocessflow: 2026.01.0_152_master
 xqueue: 2025.11.02_130_master
 xsp: 2025.08.00_396_master
