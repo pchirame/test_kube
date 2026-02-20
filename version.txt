@@ -9,7 +9,7 @@ connect-ui: 2026.02.0_76_master
 dis: 2026.02.00_2188_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
-datalakeincentevent: 2026.02.00_163_master
+datalakeincentevent: 2026.02.01_168_master
 docusign-service: 2025.11.00_30_master
 emailtemplateservice: 2025.08.00_21_master
 estimator-rest: 2025.11.00_9_master
@@ -63,6 +63,6 @@ xswattool: 2024.07.13_102_master
 xtoolkit: 2026.11.02_692_master
 xtranslationservice: 2025.08.00_38_master
 connect-ui: 2025.11.01_70_master
-incentadminserver: 2025.11.04_1337_master
+incentadminserver: 2026.02.00_1359_master
 msgincent: 2025.11.02_1293_master
 incentadminui: 2025.11.00_524_master
