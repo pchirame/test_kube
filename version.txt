@@ -6,7 +6,7 @@ caweb: 2023.05.0-release
 calcbox: 2026.05.00_241_master
 comms: 2026.02.0_71_master
 connect-ui: 2026.02.0_76_master
-dis: 2026.05.00_2236_master
+dis: 2026.05.02_2260_master
 datalake-insights: 2025.08.00_178_master
 datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2026.05.00_179_master
@@ -19,7 +19,7 @@ euiam: 2026.05.00_828_master
 inmemcalc: 2026.05.00_709_master
 inmemcalc2: 2025.11.04_590_master
 jsql-builder-deployment: 2024.08.0_42_main
-metadata-service: 2026.05.01_1296_master
+metadata-service: 2026.05.02_1324_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
 nova-components-deployment: 2024.08.0_3136_main
@@ -63,7 +63,7 @@ xswattool: 2024.07.13_102_master
 xtoolkit: 2026.02.04_708_master
 xtranslationservice: 2026.05.00_52_master
 connect-ui: 2026.02.0_76_master
-incentadminserver: 2026.05.00_1520_master
+incentadminserver: 2026.05.03_1559_master
 msgincent: 2026.05.00_1520_master
 incentadminui: 2026.05.00_701_master
 xgateway: 2026.05.00_414_master
