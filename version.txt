@@ -64,3 +64,4 @@ xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
 xtoolkit: 2026.02.04_708_master
 xtranslationservice: 2026.05.00_52_master
+nova-ingress: 1.7.3
