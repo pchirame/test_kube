@@ -4,6 +4,8 @@ ads-incent: 2026.05.0_1483_master
 calcbox: 2026.05.00_241_master
 carest: 2026.05.00_72_main
 comms: 2026.02.0_74_master
+caweb: 2023.05.0-release
+euiam: 2026.05.02_855_master
 connect-ui: 2026.02.0_76_master
 datalake-insights: 2026.05.00_208_master
 datalake-restapp: 2026.05.00_118_master
@@ -61,5 +63,3 @@ xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
 xtoolkit: 2026.05.00_715_master
 xtranslationservice: 2026.05.00_52_master
-caweb: 2023.05.0-release
-euiam: 2026.05.02_855_master
