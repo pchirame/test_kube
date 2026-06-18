@@ -8,7 +8,7 @@ caweb: 2023.05.0-release
 euiam: 2026.05.01_846_master
 connect-ui: 2026.02.0_76_master
 datalake-insights: 2025.08.00_178_master
-datalake-restapp: 2026.05.00_82_master
+datalake-restapp: 2025.05.00_82_master
 datalakeincentevent: 2026.05.00_179_master
 dis: 2026.05.02_2260_master
 docusign-service: 2026.05.00_86_master
@@ -21,7 +21,7 @@ incentadminui: 2026.05.01_705_master
 inmemcalc: 2026.05.00_709_master
 inmemcalc2: 2026.05.00_709_master
 jsql-builder-deployment: 2024.08.0_42_main
-metadata-service: 2026.05.02_1323_master
+metadata-service: 2026.05.02_1324_master
 msgincent: 2026.05.00_1520_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
@@ -45,11 +45,11 @@ xcomputeadmin: 2026.05.00_67_master
 xcomputeadminui: 2026.05.00_31_master
 xcomputemonitoring: 2026.05.00_81_master
 xcomputenodeagent: 2026.05.00_29_master
-xdm: 2026.02.08_1117_master
+xdm: 2026.02.07_1087_master
 xdmsuiserver: 2025.08.00_9_master
 xdocapprovals: 2026.05.00_253_master
 xdocapprovals-pdf: 2026.05.00_68_master
-xdocgen: 2026.05.00_30_master
+xdocgen: 2025.08.00-RElEASE_20_master
 xexternalprocess: 2025.11.00_15_master
 xgateway: 2026.05.00_414_master
 xgridmgrplandoc: 2026.05.00_49_master
@@ -64,4 +64,3 @@ xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
 xtoolkit: 2026.02.04_708_master
 xtranslationservice: 2026.05.00_52_master
-nova-ingress: 1.7.3
