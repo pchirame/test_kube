@@ -1,9 +1,3 @@
-# CICD expected image versions
-# Keys are kubectl deployment names. Values are GHCR image tags.
-# Updated via Fetch latest images or Edit manually in the CICD UI.
-#
-# Format: <deployment>: <tag>
-
 ads: 2026.05.03_20031_master
 ads-benchmarking: 2025.08.00_268_master
 ads-incent: 2026.05.0_1483_master
@@ -67,3 +61,5 @@ xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
 xtoolkit: 2026.05.00_715_master
 xtranslationservice: 2026.05.00_52_master
+caweb: 2023.05.0-release
+euiam: 2026.05.02_855_master
