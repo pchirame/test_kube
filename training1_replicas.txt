@@ -49,7 +49,7 @@ xppatask: 4
 xppamgr: 6
 xprocessflow: 2
 xqueue: 2
-xsp: 2
+xsp: 3
 xswattool: 1
 xtoolkit: 2
 xtranslationservice: 2
