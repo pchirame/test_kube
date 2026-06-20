@@ -12,6 +12,10 @@ estimator-rest: 2
 forecasting: 2
 iam: 2
 inmemcalc: 3
+incentadminserver: 8
+incentadminui: 1
+msgincent: 2
+xgateway: 2
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
