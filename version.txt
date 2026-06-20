@@ -27,7 +27,7 @@ nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
 nova-components-deployment: 2024.08.0_3136_main
 nova-custom-apps-ui-deployment: 2024.08.00_193_main
-nova-framework-ui-deployment 2024.08.0_318_main
+nova-framework-ui-deployment: 2024.08.0_318_main
 nova-platform-design-system-deployment: 2025.05.01_267_main
 nova-query-sandbox-deployment: 2024.08.0_58_main
 nova-xactly-sheet-deployment: 2024.08.0_76_main
