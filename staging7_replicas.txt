@@ -1,12 +1,12 @@
-ads: 4
+ads: 2
 ads-benchmarking: 2
 carest: 2
 caweb: 2
 comms: 2
-datalake-insights: 5
+datalake-insights: 2
 datalake-restapp: 2
 datalakeincentevent: 2
-dis: 16
+dis: 4
 docusign-service: 2
 emailtemplateservice: 2
 estimator-rest: 2
@@ -18,8 +18,8 @@ metadata-service: 2
 nova-app-designer-deployment: 2
 nova-app-viewer-deployment: 2
 nova-components-deployment: 2
-nova-custom-apps-ui-deployment: 1
-nova-framework-ui-deployment: 1
+nova-custom-apps-ui-deployment: 2
+nova-framework-ui-deployment: 2
 nova-ingress: 1
 platform-crediting-assignment-webui: 2
 nova-platform-design-system-deployment: 2
@@ -33,7 +33,7 @@ workflow-ui-deployment: 2
 xactly-push-notifications: 2
 xauditservice: 2
 xbpm: 2
-xcachewt: 4
+xcachewt: 2
 xcomputeadmin: 2
 xcomputeadminui: 2
 xcomputemonitoring: 1
@@ -46,12 +46,12 @@ xdocapprovals-pdf: 2
 xdocgen: 2
 xexternalprocess: 2
 xgridmgrplandoc: 2
-xintegrationservice: 2
+xintegrationservice: 1
 xpn-rest-service: 2
 xppatask: 6
 xprocessflow: 2
 xqueue: 2
-xsp: 3
+xsp: 2
 xppamgr: 6
 xswattool: 1
 xtoolkit: 2
@@ -59,5 +59,5 @@ xtranslationservice: 2
 forecasting: 2
 xmboserver: 2
 objectives-ui: 2
-connect-ui: 2
+connect-ui: 1
 ads-incent: 2
