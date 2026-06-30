@@ -13,6 +13,11 @@ estimator-rest: 2
 iam: 4
 inmemcalc: 3
 inmemcalc2: 1
+incentadminserver: 6
+incentadminui: 1
+calcbox: 3
+msgincent: 2
+insightsuiv2: 1
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
