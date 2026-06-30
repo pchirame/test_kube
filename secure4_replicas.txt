@@ -4,7 +4,7 @@ ads-benchmarking: 2
 caweb: 2
 comms: 2
 calcbox: 3
-datalake-insights: 5
+datalake-insights: 2
 datalake-restapp: 2
 datalakeincentevent: 2
 dis: 16
