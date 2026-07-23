@@ -63,7 +63,7 @@ xprocessflow: 2026.03.0_188_master
 xqueue: 2026.05.00_154_master
 xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
-xtoolkit: 2026.05.03_757_master
+xtoolkit: 2026.06.05_145_master
 xtranslationservice: 2026.05.00_52_master
 nova-ingress: 1.7.3
 insightsuiv2: master-3
