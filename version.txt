@@ -5,7 +5,7 @@ calcbox: 2026.06.00_292_master
 carest: 2026.05.00_72_main
 comms: 2026.02.0_71_master
 caweb: 2023.05.0-release
-euiam: 2026.05.04_874_master
+euiam: 2026.05.05_888_master
 connect-ui: 2026.05.1_87_master
 datalake-insights: 2026.05.01_215_master
 datalake-restapp: 2025.05.00_82_master
@@ -15,13 +15,13 @@ docusign-service: 2026.05.01_96_master
 emailtemplateservice: 2026.05.00_33_master
 estimator-rest: 2026.05.00_26_master
 forecasting: 2026.06.00_5133_master
-iam: 2026.05.04_874_master
-incentadminserver: 2026.05.05_1589_master
+iam: 2026.05.05_888_master
+incentadminserver: 2026.05.06_1605_master
 incentadminui: 2026.05.04_740_master
 inmemcalc: 2026.05.01_738_master
 inmemcalc2: 2026.05.01_738_master
 jsql-builder-deployment: 2024.08.0_42_main
-metadata-service: 2026.05.04_1347_master
+metadata-service: 2026.05.05_1369_master
 msgincent: 2026.05.00_1520_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
@@ -46,7 +46,7 @@ xcomputeadmin: 2026.05.00_67_master
 xcomputeadminui: 2026.05.00_31_master
 xcomputemonitoring: 2026.05.00_81_master
 xcomputenodeagent: 2026.05.00_29_master
-xdm: 2026.02.08_1158_master
+xdm: 2026.05.09_1190_master
 xdmsuiserver: 2025.08.00_9_master
 xdocapprovals: 2026.05.01_262_master
 xdocapprovals-pdf: 2026.05.00_68_master
@@ -63,7 +63,7 @@ xprocessflow: 2026.03.0_188_master
 xqueue: 2026.05.00_154_master
 xsp: 2026.05.00_491_master
 xswattool: 2024.07.14_126_master
-xtoolkit: 2026.05.01_738_master
+xtoolkit: 2026.05.03_757_master
 xtranslationservice: 2026.05.00_52_master
 nova-ingress: 1.7.3
 insightsuiv2: master-3
