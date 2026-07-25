@@ -4,8 +4,8 @@ carest: 2
 caweb: 2
 comms: 2
 calcbox: 3
-datalake-insights: 4
-datalake-restapp: 2
+datalake-insights: 5
+datalake-restapp: 3
 datalakeincentevent: 2
 dis: 16
 docusign-service: 2
@@ -14,7 +14,7 @@ estimator-rest: 2
 iam: 4
 inmemcalc: 3
 inmemcalc2: 1
-incentadminserver: 8
+incentadminserver: 7
 incentadminui: 2
 msgincent: 2
 jsql-builder-deployment: 2
