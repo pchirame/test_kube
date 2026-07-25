@@ -56,7 +56,7 @@ xgridmgrplandoc: 2026.05.00_49_master
 xintegrationservice: 2026.05.00_104_master
 xmboserver: 2026.05.00_272_master
 xpn-rest-service: 2026.05.00_20_master
-xppamgr: 2026.05.00_268_master
+xppamgr: 2026.05.00-RELEASE_269_master-xppamgr_dev
 xppatask: 2026.05.00_296_master
 xprocessflow: 2026.03.0_188_master
 xqueue: 2026.05.00_154_master
