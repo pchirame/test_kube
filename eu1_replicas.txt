@@ -14,7 +14,7 @@ estimator-rest: 2
 euiam: 4
 iam: 4
 inmemcalc: 3
-incentadminserver: 8
+incentadminserver: 7
 incentadminui: 2
 msgincent: 2
 jsql-builder-deployment: 2
