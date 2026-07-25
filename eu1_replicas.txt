@@ -43,7 +43,7 @@ xcomputeadminui: 2
 xcomputemonitoring: 1
 xcomputenodeagent: 1
 xdm: 6
-xdmsuiserver: 2
+xdmsuiserver: 1
 xdocapprovals: 2
 xdocapprovals-pdf: 2
 xdocgen: 2
