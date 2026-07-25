@@ -7,7 +7,7 @@ caweb: 2023.05.0-release
 euiam: 2026.05.05_888_master
 connect-ui: 2026.05.1_87_master
 datalake-insights: 2026.05.01_215_master
-datalake-restapp: 2025.05.00_82_master
+datalake-restapp: 2026.05.00_118_master
 datalakeincentevent: 2026.05.00_179_master
 dis: 2026.05.00_2236_master
 docusign-service: 2026.05.01_96_master
