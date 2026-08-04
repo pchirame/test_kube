@@ -1,7 +1,7 @@
 ads: 2026-07_23024_master
 ads-incent: 2.1.2_1862_master
 calcbox: 2026.06.00_292_master
-carest: 2026.05.00_72_main
+carest: 2026.05.01_78_main
 comms: 2026.02.0_92_master
 caweb: 2023.05.0-release
 euiam: 2026.05.06_900_master
@@ -32,7 +32,7 @@ nova-query-sandbox-deployment: 2024.08.0_69_main
 nova-xactly-sheet-deployment: 2024.08.0_76_main
 nova-xdbc-client-deployment: 2024.08.0_135_main
 objectives-ui: 2025.11.00_124_master
-platform-crediting-assignment-webui: 2026.05.01_78_main
+platform-crediting-assignment-webui: 2024.09.00_58_main
 platform-territories-webui: 2024.08.0_305_main
 qsf: 2026.05.0_148_master
 query-builder-deployment: 2024.08.0_328_main
