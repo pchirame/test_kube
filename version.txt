@@ -41,7 +41,7 @@ xactly-push-notifications: 2026.05.01_27_master
 xauditservice: 2026.05.0_16_master
 xbpm: 2026.05.01_23_master
 xcachewt: 2026.05.01_150_master
-xcomputeadmin: 2026.05.00_67_master
+xcomputeadmin: 2026.05.01_81_master
 xcomputeadminui: 2026.05.00_31_master
 xcomputemonitoring: 2026.05.00_81_master
 xcomputenodeagent: 2026.05.00_29_master
