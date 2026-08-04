@@ -45,7 +45,7 @@ xcomputeadmin: 2026.05.01_81_master
 xcomputeadminui: 2026.05.00_31_master
 xcomputemonitoring: 2026.05.00_81_master
 xcomputenodeagent: 2026.05.00_29_master
-xdm: 2026.05.10_1223_master
+xdm: 2026.05.10_1231_master
 xdmsuiserver: 2026.05.00_13_master
 xdocapprovals: 2026.05.02_283_master
 xdocapprovals-pdf: 2026.05.01_74_master
