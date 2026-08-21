@@ -9,7 +9,7 @@ connect-ui: 2026.08.0_113_master
 datalake-insights: 2026.05.01_215_master
 datalake-restapp: 2026.05.00_118_master
 datalakeincentevent: 2026.05.00_179_master
-dis: xdata-ingestion-service:2026.08.00_2324_master
+dis: 2026.08.00_2324_master
 docusign-service: 2026.05.02_112_master
 emailtemplateservice: 2026.08.00_40_master
 estimator-rest: 2026.08.00_41_master
