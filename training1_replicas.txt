@@ -62,3 +62,5 @@ incentadminserver: 5
 msgincent: 2
 incentadminui: 2
 calcbox: 3
+connect: 2
+xgateway: 4
