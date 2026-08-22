@@ -58,7 +58,7 @@ xmboserver: 2
 objectives-ui: 2
 connect-ui: 2
 incentadminserver: 6
-msgincent: 2
+msgincent: 3
 incentadminui: 2
 ads-incent: 2
 calcbox: 3
