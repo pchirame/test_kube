@@ -66,3 +66,4 @@ xmboserver: 2
 objectives-ui: 2
 connect-ui: 1
 ads-incent: 2
+nova-map: 2
