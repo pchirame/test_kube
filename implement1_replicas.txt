@@ -63,3 +63,4 @@ incentadminui: 2
 ads-incent: 2
 calcbox: 3
 xgateway: 4
+nova-map: 2
