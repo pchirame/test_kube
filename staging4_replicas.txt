@@ -65,3 +65,4 @@ objectives-ui: 2
 connect-ui: 2
 ads-incent: 2 
 calcbox: 3
+nova-map: 2
