@@ -64,3 +64,4 @@ incentadminui: 2
 calcbox: 3
 connect: 2
 xgateway: 4
+nova-map: 2
