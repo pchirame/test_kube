@@ -66,5 +66,5 @@ xtoolkit: 2026.08.00_769_master
 xtranslationservice: 2026.08.00_59_master
 nova-ingress: 1.7.3
 insightsuiv2: master-3
-connect: 9.15.0-RELEASE_132_master_cicd
+connect: 9.15.1-RELEASE_144_master_cicd
 nova-map: 2026.07.0_69_main
