@@ -1,4 +1,4 @@
-ads: 2026.08.1_24609_master
+ads: 2026.08.2_25211_master
 ads-incent: 2.1.3_1976_master
 calcbox: 2026.08.00_353_master
 carest: 2026.08.00_80_main
@@ -24,7 +24,7 @@ metadata-service: 2026.08.00_1373_master
 msgincent: 2026.08.03_1673_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
-nova-components-deployment: 2024.08.0_3806_main
+nova-components-deployment: 2024.08.0_3977_main
 nova-custom-apps-ui-deployment: 2024.08.00_264_main
 nova-framework-ui-deployment: 2024.08.0_460_main
 nova-platform-design-system-deployment: 2025.05.01_385_main
