@@ -15,8 +15,8 @@ emailtemplateservice: 2026.08.00_40_master
 estimator-rest: 2026.08.00_41_master
 forecasting: 2026.08.00_5461_master
 iam: 2026.08.04_982_master
-incentadminserver: 2026.08.04_1703_master
-incentadminui: 2026.08.01_794_master
+incentadminserver: 2026.08.05_1722_master
+incentadminui: 2026.08.02_807_master
 inmemcalc: 2026.08.01_834_master
 inmemcalc2: 2026.08.01_834_master
 jsql-builder-deployment: 2024.08.0_42_main
