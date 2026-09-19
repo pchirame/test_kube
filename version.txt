@@ -61,7 +61,7 @@ xppatask: 2026.05.00_296_master
 xprocessflow: 2026.03.0_217_master
 xqueue: 2026.08.00_187_master
 xsp: 2026.08.01_577_master
-xswattool: 2026.06.05_207_master
+xswattool: 2026.06.05_256_master
 xtoolkit: 2026.08.01_800_master
 xtranslationservice: 2026.08.00_59_master
 nova-ingress: 1.7.3
