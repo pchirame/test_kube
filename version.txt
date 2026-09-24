@@ -16,11 +16,11 @@ estimator-rest: 2026.08.00_41_master
 forecasting: 2026.09.00_5557_master
 iam: 2026.08.04_982_master
 incentadminserver: 2026.08.05_1722_master
-incentadminui: 2026.08.02_807_master
+incentadminui: 2026.08.02_816_master
 inmemcalc: 2026.08.01_834_master
 inmemcalc2: 2026.08.01_834_master
 jsql-builder-deployment: 2024.08.0_55_main
-metadata-service: 2026.08.00_1373_master
+metadata-service: 2026.08.01_1418_master
 msgincent: 2026.08.03_1673_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
