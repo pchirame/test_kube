@@ -15,8 +15,8 @@ emailtemplateservice: 2026.08.00_40_master
 estimator-rest: 2026.08.00_41_master
 forecasting: 2026.09.00_5557_master
 iam: 2026.08.04_982_master
-incentadminserver: 2026.08.05_1722_master
-incentadminui: 2026.08.02_816_master
+incentadminserver: 2026.08.06_1756_master
+incentadminui: 2026.08.03_821_master
 inmemcalc: 2026.08.01_834_master
 inmemcalc2: 2026.08.01_834_master
 jsql-builder-deployment: 2024.08.0_55_main
@@ -45,13 +45,13 @@ xcomputeadmin: 2026.08.00_83_master
 xcomputeadminui: 2026.08.00_55_master
 xcomputemonitoring: 2026.08.00_102_master
 xcomputenodeagent: 2026.05.00_29_master
-xdm: 2026.08.01_1347_master
+xdm: 2026.08.02_1371_master
 xdmsuiserver: 2026.08.00_19_master
 xdocapprovals: 2026.08.00_284_master
 xdocapprovals-pdf: 2026.05.01_74_master
 xdocgen: 2026.08.00_34_master
 xexternalprocess: 2026.08.00_23_master
-xgateway: 2025.08.01_485_master
+xgateway: 2026.08.01_575_master
 xgridmgrplandoc: 2026.05.00_49_master
 xintegrationservice: 2026.05.00_104_master
 xmboserver: 2026.05.00_272_master
