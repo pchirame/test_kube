@@ -1,7 +1,7 @@
 ads: 2026.10.0_26172_master
 ads-incent: 2.2.5_2213_master   
 calcbox: 2026.10.00_445_master
-carest: 2026.08.00_80_main
+carest: 2026.08.00_157_master
 comms: 2026.02.0_152_master
 caweb: 2023.05.0-release
 euiam: 2026.08.04_982_master
@@ -13,7 +13,7 @@ dis: 2026.08.01_2372_master
 docusign-service: 2026.05.02_112_master
 emailtemplateservice: 2026.08.00_40_master
 estimator-rest: 2026.08.00_41_master
-forecasting: 2026.09.00_5557_master
+forecasting: 2026.10.00_5625_master
 iam: 2026.08.04_982_master
 incentadminserver: 2026.08.06_1756_master
 incentadminui: 2026.08.03_821_master
@@ -42,7 +42,7 @@ xactly-push-notifications: 2026.05.01_27_master
 xauditservice: 2026-08.00_20_master
 xbpm: 2026.08.00_25_master
 xcachewt: 2026.05.01_150_master
-xcomputeadmin: 2026.08.00_83_master
+xcomputeadmin: 2026.08.02_157_master
 xcomputeadminui: 2026.08.00_55_master
 xcomputemonitoring: 2026.08.00_102_master
 xcomputenodeagent: 2026.05.00_29_master
