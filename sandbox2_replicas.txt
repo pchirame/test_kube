@@ -62,3 +62,6 @@ msgincent: 2
 incentadminui: 1
 ads-incent: 2
 calcbox: 3
+platform-incent-plan-config-ui: 2
+ads-dis: 16
+xgateway: 2

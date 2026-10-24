@@ -63,5 +63,7 @@ incentadminui: 2
 ads-incent: 2
 calcbox: 3
 connect: 2
-xgateway: 4
+xgateway: 2
 nova-map: 2
+platform-incent-plan-config-ui: 2
+ads-dis: 16

@@ -57,3 +57,6 @@ forecasting: 2
 xmboserver: 2
 objectives-ui: 2
 connect-ui: 2
+platform-incent-plan-config-ui: 2
+ads-dis: 16
+xgateway: 2
