@@ -1,4 +1,4 @@
-ads: 4
+ads: 2
 ads-benchmarking: 2
 carest: 2
 caweb: 2
@@ -13,13 +13,19 @@ estimator-rest: 2
 iam: 4
 inmemcalc: 3
 inmemcalc2: 1
+incentadminserver: 4
+msgincent: 2
+insightsuiv2: 2
+incentadminui: 2
+calcbox: 3
+connect: 2
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
 nova-app-viewer-deployment: 2
 nova-components-deployment: 2
-nova-custom-apps-ui-deployment: 1
-nova-framework-ui-deployment: 1
+nova-custom-apps-ui-deployment: 2
+nova-framework-ui-deployment: 2
 nova-ingress: 1
 platform-crediting-assignment-webui: 2
 nova-platform-design-system-deployment: 2
@@ -48,7 +54,6 @@ xexternalprocess: 2
 xgridmgrplandoc: 2
 xintegrationservice: 2
 xpn-rest-service: 2
-xppatask: 6
 xprocessflow: 2
 xqueue: 2
 xsp: 3
@@ -63,5 +68,5 @@ connect-ui: 2
 ads-incent: 2
 nova-map: 2
 platform-incent-plan-config-ui: 2
-ads-dis: 16
+ads-dis: 4
 xgateway: 2
