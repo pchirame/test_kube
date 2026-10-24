@@ -4,7 +4,7 @@ ads-benchmarking: 2
 caweb: 2
 comms: 2
 calcbox: 3
-datalake-insights: 2
+datalake-insights: 5
 datalake-restapp: 2
 datalakeincentevent: 2
 dis: 16
@@ -13,9 +13,9 @@ emailtemplateservice: 2
 estimator-rest: 2
 iam: 4
 inmemcalc: 3
-incentadminserver: 8
+incentadminserver: 7
 incentadminui: 2
-msgincent: 2
+msgincent: 4
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
@@ -50,7 +50,6 @@ xexternalprocess: 2
 xgridmgrplandoc: 2
 xintegrationservice: 2
 xpn-rest-service: 2
-xppatask: 6
 xprocessflow: 2
 xqueue: 2
 xsp: 2
