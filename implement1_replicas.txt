@@ -9,6 +9,7 @@ emailtemplateservice: 2
 estimator-rest: 2
 iam: 3
 inmemcalc: 3
+connect: 2
 jsql-builder-deployment: 2
 metadata-service: 2
 nova-app-designer-deployment: 2
@@ -62,7 +63,7 @@ msgincent: 2
 incentadminui: 2
 ads-incent: 2
 calcbox: 3
-xgateway: 2
+xgateway: 4
 nova-map: 2
 platform-incent-plan-config-ui: 2
-ads-dis: 16
+ads-dis: 12
