@@ -1,5 +1,5 @@
 ads: 2026.10.0_26247_master
-ads-incent: 2.2.5_2213_master
+ads-incent: 2026-10-1_278_master
 ads-dis: 2.2.5_2255_master
 calcbox: 2026.10.00_458_master
 carest: 2026.08.01_165_main
@@ -69,5 +69,5 @@ xtoolkit: 2026.08.02_849_master
 xtranslationservice: 2026.08.00_125_master
 nova-ingress: 1.7.3
 insightsuiv2: master-3
-connect: 2026.08.7_150_master
+connect: 2026.08.11_174_master
 nova-map: 2026.07.0_103_main
