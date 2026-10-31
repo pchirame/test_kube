@@ -58,7 +58,7 @@ xgateway: 2026.08.01_617_master
 xgridmgrplandoc: 2026.05.01_130_master
 xintegrationservice: 2026.05.01_185_master
 xmboserver: 2026.08.00_348_master
-xpn-rest-service: 2026.05.01_93_master
+xpn-rest-service: 2026.05.01_98_master
 xppamgr: 2026.08.01_438_master-xppamgr_dev
 xppatask: 2026.05.00_296_master
 xprocessflow: 2026.03.0_309_master
