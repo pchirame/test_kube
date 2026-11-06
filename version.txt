@@ -4,7 +4,7 @@ ads-dis: 2026-10-1_278_master
 calcbox: 2026.10.00_458_master
 carest: 2026.08.01_165_main
 comms: 2026.02.0_188_master
-caweb: 2023.05.0-release
+caweb: 2026.11.00-RELASE_33_master
 euiam: 2026.08.04_1071_master
 connect-ui: 2026.08.3_128_master
 datalake-insights: 2026.10.0_309_master
@@ -33,9 +33,9 @@ nova-platform-design-system-deployment: 2025.05.01_552_main
 nova-query-sandbox-deployment: 2024.08.0_105_main
 nova-xactly-sheet-deployment: 2024.08.0_114_main
 nova-xdbc-client-deployment: 2024.08.0_180_main
-objectives-ui: 2025.11.00_124_master
-platform-crediting-assignment-webui: 2024.09.00_58_main
-platform-territories-webui: 2024.08.0_462_main
+objectives-ui: 2026.08.1_180_master
+platform-crediting-assignment-webui: 2024.09.00_121_main
+platform-territories-webui: 2024.08.0_524_main
 platform-incent-plan-config-ui: 2024.08.0_33_main
 qsf: 2026.05.0_245_master
 query-builder-deployment: 2024.08.0_361_main
