@@ -7,7 +7,7 @@ comms: 2026.02.0_188_master
 caweb: 2026.11.00-RELASE_33_master
 euiam: 2026.08.04_1071_master
 connect-ui: 2026.08.3_128_master
-datalake-insights: 2026.10.0_293_master
+datalake-insights: 2026.10.0_309_master
 datalake-restapp: 2026.05.00_118_master
 datalakeincentevent: 2026.05.01_262_master
 dis: 2026.10.1_2435_master
