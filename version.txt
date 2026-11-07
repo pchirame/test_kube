@@ -68,6 +68,6 @@ xswattool: 2026.06.05_256_master
 xtoolkit: 2026.08.02_849_master
 xtranslationservice: 2026.08.00_125_master
 nova-ingress: 1.7.3
-insightsuiv2: master-3
+insightsuiv2: 2026.08.1_24_master
 connect: 2026.08.11_174_master
 nova-map: 2026.07.0_103_main
