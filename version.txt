@@ -7,8 +7,8 @@ comms: 2026.02.0_188_master
 caweb: 2026.11.00-RELASE_33_master
 euiam: 2026.08.04_1071_master
 connect-ui: 2026.08.3_128_master
-datalake-insights: 2026.10.0_309_master
-datalake-restapp: 2026.05.00_200_master
+datalake-insights: 2026.10.0_293_master
+datalake-restapp: 2026.05.00_118_master
 datalakeincentevent: 2026.05.01_262_master
 dis: 2026.10.1_2435_master
 docusign-service: 2026.05.03_182_master
@@ -20,7 +20,7 @@ iam: 2026.08.04_1071_master
 incentadminserver: 2026.08.07_1809_master
 incentadminui: 2026.08.04_826_master
 inmemcalc: 2026.08.01_942_master
-inmemcalc2: 2026.08.01_834_master
+inmemcalc2: 2026.08.01_942_master
 jsql-builder-deployment: 2024.08.0_77_main
 metadata-service: 2026.08.01_1459_master
 msgincent: 2026.08.07_1809_master
