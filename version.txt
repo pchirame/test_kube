@@ -21,13 +21,13 @@ incentadminserver: 2026.11.01_1862_master
 incentadminui: 2026.11.00_838_master
 inmemcalc: 2026.11.00_971_master
 inmemcalc2: 2026.11.00_971_master
-jsql-builder-deployment: 2024.08.0_77_main
+jsql-builder-deployment: 2026.11.00_114_main
 metadata-service: 2026.11.00_1477_master
 msgincent: 2026.08.07_1809_master
 nova-app-designer-deployment: 2024.08.0_1337_main
 nova-app-viewer-deployment: 2024.08.0_262_main
-nova-components-deployment: 4.0.1_331_main
-nova-custom-apps-ui-deployment: 2024.08.00_307_main
+nova-components-deployment: 2026.11.00_4640_main
+nova-custom-apps-ui-deployment: 4.0.1_331_main
 nova-framework-ui-deployment: 4.0.2_641_main
 nova-platform-design-system-deployment: 1.0.0_662_main
 nova-query-sandbox-deployment: 1.0.0_124_main
@@ -38,7 +38,7 @@ platform-crediting-assignment-webui: 2024.09.00_121_main
 platform-territories-webui: 0.0.0_546_main
 platform-incent-plan-config-ui: 0.0.0_48_main
 qsf: 2026.11.00_266_master
-query-builder-deployment: 2026.11.00_388_main
+query-builder-deployment: 2026.11.00_405_main
 workflow-ui-deployment: 2026.11.00_244_main
 xactly-push-notifications: 2026.05.02_94_master
 xauditservice: 2026-08.01_86_master
